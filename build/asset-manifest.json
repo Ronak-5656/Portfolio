@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9d5a9a3.css",
+    "main.js": "/static/js/main.aaa9a473.js",
+    "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
+    "static/media/back-V.mp4": "/static/media/back-V.1a1bc9b42b761c039204.mp4",
+    "static/media/i'm-Ronak.png": "/static/media/i'm-Ronak.31193acd8185896b59c0.png",
+    "static/media/Web-5.png": "/static/media/Web-5.05aee82047a01b8911ea.png",
+    "static/media/Web-2.png": "/static/media/Web-2.85c8cd1e3a6ccf25a99a.png",
+    "static/media/Web-4.png": "/static/media/Web-4.91677423efa4d2ae6da2.png",
+    "static/media/Web-6.png": "/static/media/Web-6.4244abfb2cce33f6fb9b.png",
+    "static/media/Web-7.png": "/static/media/Web-7.d8bbbeb95c10361d0314.png",
+    "static/media/Web-1.png": "/static/media/Web-1.194b3bde48e5d19c3ae5.png",
+    "static/media/Web-8.png": "/static/media/Web-8.404461890501c8cd3a7c.png",
+    "static/media/Web-3.png": "/static/media/Web-3.d68cd6bf9f334ce0565f.png",
+    "static/media/Ronak-R.pdf": "/static/media/Ronak-R.758bf083fd088fc773cf.pdf",
+    "static/media/team-4.png": "/static/media/team-4.6880d03e4130357279d3.png",
+    "static/media/team-3.png": "/static/media/team-3.18208fb5eb37fe261e3a.png",
+    "static/media/team-1.png": "/static/media/team-1.6d0f6d4ff3b104745bb3.png",
+    "static/media/team-2.png": "/static/media/team-2.c3b8f9474c5a942039cf.png",
+    "index.html": "/index.html",
+    "main.e9d5a9a3.css.map": "/static/css/main.e9d5a9a3.css.map",
+    "main.aaa9a473.js.map": "/static/js/main.aaa9a473.js.map",
+    "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d5a9a3.css",
+    "static/js/main.aaa9a473.js"
+  ]
+}
